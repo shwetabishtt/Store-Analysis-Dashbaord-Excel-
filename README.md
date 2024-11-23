@@ -71,13 +71,6 @@ To enhance sales performance in 2023, Vrinda Store should:
 - Focus marketing efforts in **Maharashtra**, **Karnataka**, and **Uttar Pradesh**.
 - Leverage **Amazon**, **Flipkart**, and **Myntra** by offering personalized ads, discounts, and coupons.
 
----
-
-## How to Use the Dashboard
-1. Open the Excel file.
-2. Navigate to the **Dashboard** sheet.
-3. Use the **Slicers** to filter data dynamically by gender, age group, states, and other dimensions.
-4. Analyze the visualizations to derive insights.
 
 ---
 
@@ -88,15 +81,7 @@ To enhance sales performance in 2023, Vrinda Store should:
    - Dashboard Creation  
    - Slicers for interactivity  
 
----
 
-## Acknowledgments
-This project was completed as part of a sales analysis exercise for Vrinda Store. Special thanks to the store's management for providing the dataset and allowing this detailed analysis.
-
----
-
-## Author
-**[Your Name]**  
 Feel free to reach out for queries or collaboration opportunities!
 
 ---
