@@ -82,7 +82,6 @@ To enhance sales performance in 2023, Vrinda Store should:
    - Slicers for interactivity  
 
 
-Feel free to reach out for queries or collaboration opportunities!
 
 ---
 
